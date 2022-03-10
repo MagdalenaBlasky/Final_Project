@@ -15,9 +15,9 @@ Each record represents a different wine and each column contains different infor
 The features are; country, description, designation (place), points, price, province, region 1, region 2, taster name, taster twitter handel, titel, variety, winery.
 
 
-Goal: Build a wine recommender using K-Means clustering and KNN modelling that recommends wines based on flavours and notes entered by user. 
+Goal: Build a wine recommender using K-Modes clustering that recommends wines based on flavours and notes entered by user. 
 
-Framework: Perform EDA on the types of wines and regions considered in our data set and then use natural language processing to extract the notes from the description column and generate flavour profiles and categories and associate them with clusters. 
+Framework: Perform EDA on the types of wines and regions considered in our data set and then use natural language processing library NLTK to extract the notes from the description column and generate flavour profiles and categories and associate them with clusters. 
 
 ## Timetable
 
