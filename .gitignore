@@ -11,3 +11,7 @@ data/clustered_data/huang_50_iter_11_clusters.csv
 data/clustered_data/cao_100_iter_11_clusters.csv
 data/clustered_data/cao_50_iter_11_clusters.csv
 data/det_cao_100_iter_12_clusters.csv
+
+Wine_Recommender_Cluster_Exploration_and_Visualisations.ipynb
+Wine_Recommender_Clustering.ipynb
+Wine_Recommender_NLP.ipynb
